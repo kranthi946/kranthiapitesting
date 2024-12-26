@@ -1,0 +1,15 @@
+{
+  "id": 6,
+  "first_name": "Alex",
+  "last_name": "Taylor",
+  "email": "alex.taylor@example.com",
+
+  "jobs": ["tester","gcp"],
+  "favfoods": {
+
+    "breakfast" : "idly",
+    "lunch" : "biryani",
+    "dinner": ["chapathi","milk"]
+
+  }
+}
